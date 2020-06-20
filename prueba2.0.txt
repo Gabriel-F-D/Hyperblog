@@ -1,1 +1,3 @@
 Este es el segundo archivo de prueba para las capacidades de git hub
+
+En este momento se realizo un hard reset para borrar los cambios de un archivo y volver al estado anterior,el comando es git reset (id de la version) seguido de --hard/soft
