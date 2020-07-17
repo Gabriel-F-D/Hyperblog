@@ -7,7 +7,9 @@ Un blod diseñado para el curso de git y GitHub(https://platzi.com/clases/1557-g
 - Comandos de git.
 - El flujo de trabajo en un ambiente profesional.
 - Y la importancia de las buenas practicas.
-- Esta linea es una prueba para cherry-pick
+- Esta linea es una prueba para cherry-pick.
+- Incluye ejemplos en otros sistemas operativos.
+- Accesible para todas las edades.
 
 Recordatorio: **Este readme.md es una practica**. Solo diseñado para este ejemplo.
 
