@@ -9,6 +9,7 @@ Un blod diseñado para el curso de git y GitHub(https://platzi.com/clases/1557-g
 - Y la importancia de las buenas practicas.
 - Esta linea es una prueba para cherry-pick.
 - Incluye ejemplos en otros sistemas operativos.
+- Accesible para todas las edades.
 
 Recordatorio: **Este readme.md es una practica**. Solo diseñado para este ejemplo.
 
